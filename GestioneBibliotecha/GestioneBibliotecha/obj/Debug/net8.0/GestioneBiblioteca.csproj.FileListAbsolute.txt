@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\bin\Debug\net8.0\GestioneBiblioteca.exe
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\bin\Debug\net8.0\GestioneBiblioteca.deps.json
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\bin\Debug\net8.0\GestioneBiblioteca.runtimeconfig.json
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\bin\Debug\net8.0\GestioneBiblioteca.dll
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\bin\Debug\net8.0\GestioneBiblioteca.pdb
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\obj\Debug\net8.0\GestioneBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\obj\Debug\net8.0\GestioneBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\obj\Debug\net8.0\GestioneBiblioteca.AssemblyInfo.cs
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\obj\Debug\net8.0\GestioneBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\obj\Debug\net8.0\GestioneBiblioteca.dll
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\obj\Debug\net8.0\refint\GestioneBiblioteca.dll
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\obj\Debug\net8.0\GestioneBiblioteca.pdb
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\obj\Debug\net8.0\GestioneBiblioteca.genruntimeconfig.cache
+C:\Users\Utente\Desktop\GestioneBibliotecha\GestioneBibliotecha\obj\Debug\net8.0\ref\GestioneBiblioteca.dll
